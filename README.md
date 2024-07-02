@@ -1,7 +1,7 @@
 ![Header](https://i.ibb.co/ZcS1rGM/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Rahat Ahmed Rahe</h1>
 <h2 align="center">A passionate frontend developer from Bangladesh</h2>
-<img align='right' width='500' src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align='right' width='500'  src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
 - 🔭 I’m currently working on **DocHouse**
