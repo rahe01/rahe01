@@ -1,21 +1,23 @@
 ![Header](https://i.ibb.co/ZcS1rGM/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Rahat Ahmed Rahe</h1>
-<h2 align="center">A passionate frontend developer from Bangladesh</h2>
+<h2 align="center">A Passionate Frontend Developer from Bangladesh</h2>
+
 <img align='right' width='400' src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-<p align="left">I'm a frontend developer specializing in building exceptional digital experiences. Currently, I'm focused on creating scalable web applications and learning new technologies.</p>
+<p align="left">
+  I'm a frontend developer specializing in building exceptional digital experiences. 
+  Currently, I'm focused on creating scalable web applications and learning new technologies.
+</p>
 
 - 🔭 I’m currently working on **DocHouse**
-
 - 🌱 I’m currently learning **NextJs**
-
 - 👨‍💻 All of my projects are available at [https://rahe-01.web.app/](https://rahe-01.web.app/)
-
 - 💬 Ask me about **MERN**
-
 - 📫 How to reach me **raheahmed009@gmail.com**
-
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OBfvmY7CJ2RmQU-67lPa-5-5OwxK0Qop/view)
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +28,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raheahmed009" height="30" width="40" />
   </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -67,15 +71,11 @@
   </a> 
 </p>
 
+---
+
 <h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahe01&show_icons=true&locale=en&layout=compact" alt="rahe01" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahe01&show_icons=true&locale=en" alt="rahe01" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahe01&" alt="rahe01" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahe01&show_icons=true&locale=en&theme=radical" alt="rahe01" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahe01&theme=radical" alt="rahe01" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahe01&show_icons=true&locale=en&layout=compact&theme=radical" alt="rahe01" />
+</div>
