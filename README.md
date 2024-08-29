@@ -75,7 +75,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahe01&show_icons=true&locale=en&theme=radical" alt="rahe01" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahe01&theme=radical" alt="rahe01" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahe01&show_icons=true&locale=en&layout=compact&theme=radical" alt="rahe01" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahe01&show_icons=true&locale=en&theme=radical&cache_seconds=1800" alt="rahe01" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahe01&theme=radical&cache_seconds=1800" alt="rahe01" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahe01&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=1800" alt="rahe01" />
 </div>
