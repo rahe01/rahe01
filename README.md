@@ -7,15 +7,15 @@
 
 <p align="left">
   I'm a frontend developer specializing in building exceptional digital experiences. 
-  Currently, I'm focused on creating scalable web applications and learning new technologies.
+  Currently, I'm focused on creating scalable web applications and continuously learning new technologies.
 </p>
 
 - 🔭 I’m currently working on **DocHouse**
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NextJs**, **C**, **C++**, and **Data Structures & Algorithms (DSA)**
 - 👨‍💻 All of my projects are available at [https://rahe-01.web.app/](https://rahe-01.web.app/)
-- 💬 Ask me about **MERN**
-- 📫 How to reach me **raheahmed009@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WHpnJjmBoDUrQo5icsIB92rlHRDWStJg/view?usp=drive_link)
+- 💬 Ask me about **MERN**, **C/C++**, and **DSA**
+- 📫 How to reach me: **raheahmed009@gmail.com**
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1WHpnJjmBoDUrQo5icsIB92rlHRDWStJg/view?usp=drive_link)
 
 ---
 
