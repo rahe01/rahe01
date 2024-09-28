@@ -10,7 +10,7 @@
   Currently, I'm focused on creating scalable web applications and continuously learning new technologies.
 </p>
 
-- 🔭 I’m currently working on **DocHouse**
+- 🔭 I’m currently working on ** GreenHarvesters**
 - 🌱 I’m currently learning **NextJs**, **C**, **C++**, and **Data Structures & Algorithms (DSA)**
 - 👨‍💻 All of my projects are available at [https://rahe-01.web.app/](https://rahe-01.web.app/)
 - 💬 Ask me about **MERN**, **C/C++**, and **DSA**
