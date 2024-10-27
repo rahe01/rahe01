@@ -1,31 +1,51 @@
 ![Header](https://i.ibb.co/ZcS1rGM/github-header-image.png)
 
 <h1 align="center">👋 Hi, I'm Rahat Ahmed Rahe</h1>
-<h2 align="center">A Passionate Frontend Developer from Bangladesh</h2>
+<h2 align="center">🌟 A Passionate Frontend Developer from Bangladesh 🌟</h2>
 
-<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Coding GIF">
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Coding GIF">
+</div>
 
 ---
 
-<p align="left">  
-  I'm a frontend developer specializing in building exceptional digital experiences. 
-  Currently, I'm focused on creating scalable web applications and continuously learning new technologies.
+<p align="center">  
+  🚀 I'm a frontend developer specializing in building exceptional digital experiences. 
+  Currently focused on creating scalable web applications and continuously learning new technologies.
 </p>
 
 ---
 
 ### 🌱 About Me
-- 🔭 **Working On**: GreenHarvesters
-- 📘 **Learning**: NextJs, C, C++, Data Structures & Algorithms (DSA)
-- 👨‍💻 **Projects**: [My Portfolio](https://rahe-01.web.app/)
-- 📫 **Contact**: raheahmed009@gmail.com
-- 📄 **Resume**: [My Resume](https://drive.google.com/file/d/1WHpnJjmBoDUrQo5icsIB92rlHRDWStJg/view?usp=drive_link)
+<div align="center">
+  <table>
+    <tr>
+      <td>🔭 <strong>Working On:</strong></td>
+      <td>GreenHarvesters</td>
+    </tr>
+    <tr>
+      <td>📘 <strong>Learning:</strong></td>
+      <td>NextJs, C, C++, Data Structures & Algorithms (DSA)</td>
+    </tr>
+    <tr>
+      <td>👨‍💻 <strong>Projects:</strong></td>
+      <td><a href="https://rahe-01.web.app/">My Portfolio</a></td>
+    </tr>
+    <tr>
+      <td>📫 <strong>Contact:</strong></td>
+      <td>raheahmed009@gmail.com</td>
+    </tr>
+    <tr>
+      <td>📄 <strong>Resume:</strong></td>
+      <td><a href="https://drive.google.com/file/d/1WHpnJjmBoDUrQo5icsIB92rlHRDWStJg/view?usp=drive_link">My Resume</a></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 🔗 Connect With Me
-
-<p align="left">
+<p align="center">
   <a href="https://app.daily.dev/rahe09" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
@@ -38,7 +58,7 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -57,21 +77,39 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahe01&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahe01&theme=dark&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahe01&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahe01&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahe01&theme=dark&hide_border=true" alt="GitHub Streak" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahe01&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="400">
 </div>
 
 ---
 
-### 💼 Featured Projects
+### 🌟 Featured Projects
 
-- **GreenHarvesters** - Solving agricultural problems for a sustainable future.
-- **Tourism Management** - Explore and manage travel destinations [Live Demo](https://tourism-management.web.app)
+<div align="center">
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Live Demo</th>
+    </tr>
+    <tr>
+      <td><strong>GreenHarvesters</strong></td>
+      <td>Solving agricultural problems for a sustainable future</td>
+      <td><a href="https://greenharvesters.com">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Tourism Management</strong></td>
+      <td>Explore and manage travel destinations</td>
+      <td><a href="https://tourism-management.web.app">Live Demo</a></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 🏆 Badges & Achievements
-<p align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Programming_Hero_Graduate-blue?style=for-the-badge&logo=appveyor" alt="Programming Hero Graduate Badge" />
-</p>
+  <img src="https://img.shields.io/badge/Frontend_Master-Professional-brightgreen?style=for-the-badge&logo=appveyor" alt="Frontend Master Badge" />
+</div>
