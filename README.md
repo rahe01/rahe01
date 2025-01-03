@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **GreenHarvesters**
 - 🌱 I’m currently learning **NextJs**, **C**, **C++**, and **Data Structures & Algorithms (DSA)**
-- 👨‍💻 All of my projects are available at [Here](https://rahe-01.web.app/](https://moonlit-gingersnap-a4ec44.netlify.app/)
+- 👨‍💻 All of my projects are available at [Here](https://moonlit-gingersnap-a4ec44.netlify.app/)
 - 💬 Ask me about **MERN**, **C/C++**, and **DSA**
 - 📫 How to reach me: **raheahmed009@gmail.com**
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1WHpnJjmBoDUrQo5icsIB92rlHRDWStJg/view?usp=drive_link)
