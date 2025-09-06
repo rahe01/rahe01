@@ -1,4 +1,4 @@
-I![Header](https://i.ibb.co/ZcS1rGM/github-header-image.png)
+![Header](https://i.ibb.co/ZcS1rGM/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Rahat Ahmed Rahe</h1>
 <h2 align="center">A Passionate Full-Stack Developer (Backend Focused) from Bangladesh</h2>
