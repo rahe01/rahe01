@@ -1,4 +1,4 @@
-![Header](https://i.ibb.co/ZcS1rGM/github-header-image.png)
+I![Header](https://i.ibb.co/ZcS1rGM/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Rahat Ahmed Rahe</h1>
 <h2 align="center">A Passionate Full-Stack Developer (Backend Focused) from Bangladesh</h2>
@@ -6,8 +6,8 @@
 <img align='right' width='400' src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 <p align="left">
-  I'm a developer passionate about building **scalable backend systems** and **efficient APIs**.  
-  While I enjoy frontend development with modern frameworks, my main focus is mastering **backend technologies** like Django, Node.js, and databases to create powerful and reliable applications.
+  I'm a developer passionate about building <b>scalable backend systems</b> and <b>efficient APIs</b>.  
+  While I enjoy frontend development with modern frameworks, my main focus is mastering <b>backend technologies</b> like <b>Django</b>, <b>Node.js</b>, and <b>databases</b> to create powerful and reliable applications.
 </p>
 
 - 🔭 I’m currently working on **GreenHarvesters**
