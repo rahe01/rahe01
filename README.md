@@ -11,9 +11,9 @@
 </p>
 
 - 🔭 I’m currently working on **GreenHarvesters**
-- 🌱 I’m currently learning **NextJs**, **C**, **C++**, and **Data Structures & Algorithms (DSA)**
+- 🌱 I’m currently learning **NextJs**, **C**, **C++**, **Django**, and **Data Structures & Algorithms (DSA)**
 - 👨‍💻 All of my projects are available at [Here](https://moonlit-gingersnap-a4ec44.netlify.app/)
-- 💬 Ask me about **MERN**, **C/C++**, and **DSA**
+- 💬 Ask me about **MERN**, **C/C++**, **Django**, and **DSA**
 - 📫 How to reach me: **raheahmed009@gmail.com**
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1WHpnJjmBoDUrQo5icsIB92rlHRDWStJg/view?usp=drive_link)
 
@@ -75,8 +75,10 @@
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/> 
+  </a>
 </p>
-
 
 ---
 
