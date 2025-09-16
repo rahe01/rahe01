@@ -54,6 +54,12 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
   </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  </a>
 </p>
 
 #### 🎨 Frontend  
@@ -86,6 +92,15 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
   </a> 
+  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="DBeaver" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-word-2013.svg" alt="MS Word" width="40" height="40"/> 
+  </a>
 </p>
 
 #### 💻 Programming Languages  
@@ -102,7 +117,7 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahe01&show_icons=true&locale=en&theme=radical&cache_seconds=1800" alt="rahe01" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahe01&theme=radical&cache_seconds=1800" alt="rahe01" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahe01&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=1800" alt="rahe01" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahe01&show_icons=true&locale=en&theme=radical" alt="rahe01" />
+  <img src="https://streak-stats.demolab.com?user=rahe01&theme=radical" alt="rahe01" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahe01&show_icons=true&locale=en&layout=compact&theme=radical" alt="rahe01" />
 </div>
