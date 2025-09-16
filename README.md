@@ -1,17 +1,18 @@
 ![Header](https://i.ibb.co/ZcS1rGM/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Rahat Ahmed Rahe</h1>
-<h2 align="center">A Passionate Full-Stack Developer (Backend Focused) from Bangladesh</h2>
+<h2 align="center">A Passionate Backend-Focused Full-Stack Developer from Bangladesh</h2>
 
 <img align='right' width='400' src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 <p align="left">
-  I'm a developer passionate about building <b>scalable backend systems</b> and <b>efficient APIs</b>.  
-  While I enjoy frontend development with modern frameworks, my main focus is mastering <b>backend technologies</b> like <b>Django</b>, <b>Node.js</b>, and <b>databases</b> to create powerful and reliable applications.
+  I'm deeply passionate about building <b>scalable backend systems</b> and <b>efficient APIs</b>.  
+  My core focus is backend development with <b>Django</b>, <b>Node.js</b>, and <b>databases</b>.  
+  Alongside backend, I explore frontend frameworks to build full-stack applications.  
+  Currently, I’m sharpening my skills in <b>Django</b>, <b>C++</b>, and <b>Data Structures & Algorithms (DSA)</b> to become a stronger problem solver and backend engineer.
 </p>
 
-- 🔭 I’m currently working on **GreenHarvesters**
-- 🌱 I’m currently learning **Django**, **NextJs**, **C/C++**, and **Data Structures & Algorithms (DSA)**
+- 🌱 I’m currently learning **Django**, **C++**, and **Data Structures & Algorithms (DSA)**
 - 👨‍💻 All of my projects are available at [Portfolio](https://moonlit-gingersnap-a4ec44.netlify.app/)
 - 💬 Ask me about **Django**, **MERN**, **C/C++**, and **DSA**
 - 📫 Reach me at: **raheahmed009@gmail.com**
@@ -31,9 +32,10 @@
 
 ---
 
-<h3 align="left">⚒️ Languages and Tools:</h3>
+<h3 align="left">⚒️ Technologies & Tools:</h3>
+
+#### 🖥️ Backend & Databases  
 <p align="left">
-  <!-- Backend & Databases -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
@@ -52,8 +54,10 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
   </a>
+</p>
 
-  <!-- Frontend -->
+#### 🎨 Frontend  
+<p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
   </a> 
@@ -72,14 +76,20 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
   </a>
+</p>
 
-  <!-- Tools & Others -->
+#### ⚙️ Tools & Others  
+<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
   </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
   </a> 
+</p>
+
+#### 💻 Programming Languages  
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   </a>
