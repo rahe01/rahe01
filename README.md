@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Django**, **C++**, and **Data Structures & Algorithms (DSA)**
 - 👨‍💻 All of my projects are available at [Portfolio](https://moonlit-gingersnap-a4ec44.netlify.app/)
 - 💬 Ask me about **Django**, **MERN**, **C/C++**, and **DSA**
-- 📫 Reach me at: **raheahmed009@gmail.com**
+- 📫 Reach me at: **rahatrahe01@gmail.com**
 - 📄 Know more: [Resume](https://drive.google.com/file/d/1WHpnJjmBoDUrQo5icsIB92rlHRDWStJg/view?usp=drive_link)
 
 ---
