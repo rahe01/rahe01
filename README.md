@@ -113,7 +113,7 @@
 
 <p align="left">
   I enjoy solving algorithmic challenges and sharpening my problem-solving skills through platforms like <b>LeetCode</b>.  
-  Currently focusing on <b>Data Structures & Algorithms (DSA)</b> with <b>C++</b> and <b>Python</b>.
+  Currently focusing on <b>Data Structures & Algorithms (DSA)</b> with <b>C++</b>.
 </p>
 
 <p align="center">
