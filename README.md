@@ -109,6 +109,21 @@
 
 ---
 
+<h3 align="left">🧩 Problem Solving & DSA</h3>
+
+<p align="left">
+  I enjoy solving algorithmic challenges and sharpening my problem-solving skills through platforms like <b>LeetCode</b>.  
+  Currently focusing on <b>Data Structures & Algorithms (DSA)</b> with <b>C++</b> and <b>Python</b>.
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/rahat_01/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/rahat_01?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
 <h3 align="left">📊 GitHub Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahe01&show_icons=true&locale=en&theme=radical" alt="rahe01" />
