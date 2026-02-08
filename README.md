@@ -31,7 +31,7 @@
 
 <h3 align="left">⚒️ Technologies & Tools:</h3>
 
-#### 🖥️ Backend & Databases  
+#### 🖥️ Backend & Databases
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
@@ -62,7 +62,7 @@
   </a>
 </p>
 
-#### 🎨 Frontend  
+#### 🎨 Frontend
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
@@ -75,7 +75,7 @@
   </a>
 </p>
 
-#### ⚙️ Tools & Others  
+#### ⚙️ Tools & Others
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
@@ -83,7 +83,29 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
   </a> 
+  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="DBeaver" width="40" height="40"/> 
+  </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
   </a>
 </p>
+
+#### 💻 Programming Languages
+<p align="left">
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahe01&show_icons=true&locale=en&theme=radical" alt="rahe01" />
+  <img src="https://streak-stats.demolab.com?user=rahe01&theme=radical" alt="rahe01" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahe01&show_icons=true&locale=en&layout=compact&theme=radical" alt="rahe01" />
+</div>
