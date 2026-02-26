@@ -1,48 +1,35 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:9013FE&height=250&section=header&text=Rahat%20Ahmed%20Rahe&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
+![Header](https://i.ibb.co/ZcS1rGM/github-header-image.png)
+
+<h1 align="center">Rahat Ahmed Rahe</h1>
+<h3 align="center">Backend Engineer • System Architect • Scalable API Specialist 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9013FE&center=true&vCenter=true&width=600&lines=Backend+Engineering+Architect;Scalable+System+Designer;Full-Stack+Modern+Developer;Clean+Code+Practitioner" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/raheahmed009"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rahatrahe01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/rahe01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahe01&label=PROFILE+VIEWS&color=9013FE&style=flat-square" alt="Views" />
+  <a href="https://linkedin.com/in/raheahmed009">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:rahatrahe01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Business_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rahe01&label=Profile%20Views&color=111827&style=for-the-badge"/>
 </p>
 
 ---
 
-## 💠 Executive Summary
+## 🚀 Professional Summary
 
-> **I architect the invisible backbone of the web.** > Focused on building **resilient, high-concurrency, and secure** backend ecosystems. I specialize in transforming complex business requirements into high-performance RESTful architectures using **TypeScript**, **Node.js**, and **Modern Database Modeling**.
+I design and build **secure, scalable, production-grade backend systems**.
 
----
+My focus is not just writing APIs —  
+I build **architecture that scales**, databases that perform, and authentication systems that protect.
 
-## 🛠️ Specialized Technical Stack
+I specialize in:
 
-### 🟦 Core Backend Engineering
-| Technology | Proficiency | Usage |
-| :--- | :---: | :--- |
-| **Node.js / Express** | ![90%](https://geps.dev/progress/90?dangerColor=4A90E2&warningColor=4A90E2&successColor=4A90E2) | Scalable API & Microservices |
-| **TypeScript** | ![85%](https://geps.dev/progress/85?dangerColor=3178C6&warningColor=3178C6&successColor=3178C6) | Type-safe Backend Architecture |
-| **Prisma ORM** | ![95%](https://geps.dev/progress/95?dangerColor=2D3748&warningColor=2D3748&successColor=2D3748) | Database Schema & Query Optimization |
-| **PostgreSQL** | ![80%](https://geps.dev/progress/80?dangerColor=336791&warningColor=336791&successColor=336791) | Relational Data Modeling |
-
-### 🟪 Infrastructure & Security
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jwt,stripe,docker,postman,git,github" height="50"/>
-</p>
-
-### 🟧 Frontend & Design Ecosystem
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,mongodb,mysql" height="50"/>
-</p>
+- Designing structured backend architecture  
+- Building high-performance REST APIs  
+- Implementing secure authentication & authorization  
+- Creating maintainable TypeScript-based systems  
+- Integrating payment infrastructure  
+- Preparing applications for real-world production environments  
 
 ---
 
@@ -68,46 +55,117 @@
     <td align="center" width="25%">
       <img src="https://cdn-icons-png.flaticon.com/512/1541/1541411.png" width="40px"/><br/>
       <b>Performance</b><br/>
-      <sub>Zero bottleneck data fetching.</sub>
+      <sub>Optimized queries & efficient data flow.</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 Performance & Contributions
+## 🏗 Core Expertise
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahe01&show_icons=true&theme=transparent&title_color=9013FE&icon_color=4A90E2&text_color=ffffff&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=rahe01&theme=transparent&color=9013FE&hide_border=true" width="48%" />
+```yaml
+Architecture:
+  - Modular Backend Structure
+  - Service Layer Pattern
+  - Clean Code Principles
+  - Scalable API Design
+
+Security:
+  - JWT Authentication
+  - Role-Based Authorization (RBAC)
+  - Input Validation with Zod
+  - Secure Payment Integration
+
+Database:
+  - PostgreSQL Relational Modeling
+  - Prisma ORM
+  - Optimized Query Performance
+```
+
+---
+
+## ⚙️ Tech Stack
+
+### Backend Engineering
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,prisma,postgres" height="42"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahe01&layout=compact&theme=transparent&title_color=9013FE&text_color=ffffff&hide_border=true" width="400px" />
+### Authentication & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=jwt,stripe" height="42"/>
+</p>
+
+### Frontend Capabilities
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="42"/>
+</p>
+
+### Development Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,postman,figma,mongodb,mysql" height="42"/>
 </p>
 
 ---
 
-## 🧩 The Engineer Identity
+## 📊 GitHub Performance
 
-```typescript
-import { Engineer } from 'future-tech-stack';
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rahe01&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=rahe01&theme=github-dark-blue&hide_border=true" height="170"/>
+</p>
 
-class RahatAhmedRahe implements Engineer {
-  readonly name = 'Rahat Ahmed Rahe';
-  readonly location = 'Bangladesh 🇧🇩';
-  
-  public getFocusArea() {
-    return {
-      primary: 'Production-Grade API Infrastructure',
-      secondary: 'Cloud-Native Distributed Systems',
-      current: 'Optimizing high-traffic database performance'
-    };
-  }
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahe01&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
 
-  public mission() {
-    console.log("Engineering systems that last for decades, not just deployments.");
-  }
+---
+
+## 🧩 Backend Identity (Code Representation)
+
+```ts
+interface Engineer {
+  role: string;
+  specialization: string;
+  stack: string[];
+  mindset: string[];
+  mission: () => string;
 }
 
-export default new RahatAhmedRahe();
+const RahatAhmedRahe: Engineer = {
+  role: "Backend Engineer",
+  specialization: "Scalable API & System Architecture",
+  stack: [
+    "Node.js",
+    "Express.js",
+    "TypeScript",
+    "PostgreSQL",
+    "Prisma",
+    "JWT",
+    "Stripe"
+  ],
+  mindset: [
+    "Security First",
+    "Scalability Driven",
+    "Clean Architecture",
+    "Performance Optimized"
+  ],
+  mission: () =>
+    "Build enterprise-grade backend systems that scale efficiently and securely."
+};
+
+export default RahatAhmedRahe;
+```
+
+---
+
+## 🎯 Career Direction
+
+Focused on becoming a **high-impact backend engineer** capable of designing systems that handle large-scale traffic, secure financial transactions, and complex relational data structures.
+
+---
+
+<p align="center">
+⚡ Building backend systems that survive production — not just development.
+</p>
