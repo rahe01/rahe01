@@ -1,83 +1,83 @@
-<!-- HEADER -->
-<div align="center">
+![Header](https://i.ibb.co/ZcS1rGM/github-header-image.png)
 
-# 👋 Hi, I'm Rahat Ahmed Rahe  
-### 🚀 Backend-Focused Full-Stack Developer | Bangladesh 🇧🇩  
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Backend%20Engineer&fontSize=40&fontColor=ffffff" />
-
-</div>
+<h1 align="center">Hi 👋, I'm Rahat Ahmed Rahe</h1>
+<h3 align="center">A Passionate Backend-Focused Full-Stack Developer from Bangladesh 🇧🇩</h3>
 
 ---
 
-## 🧠 About Me
+<img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-💡 Passionate about building **scalable backend systems** & **secure APIs**  
-⚙️ Focused on **Node.js, Express, TypeScript & Databases**  
-📚 Currently mastering system design & production-ready architecture  
+### 🧠 About Me
 
-- 🌱 Learning: `TypeScript`, `Prisma`, `PostgreSQL`, `JWT`, `Zod`
+I'm deeply passionate about building **scalable backend systems** and **efficient APIs**.  
+My core focus is backend development with **Node.js**, **Express.js**, **TypeScript**, and **Databases**.  
+
+Currently sharpening my skills in:
+
+`Express.js` • `Node.js` • `TypeScript` • `Prisma` • `PostgreSQL` • `JWT` • `Zod`
+
+- 🌱 I’m currently learning **Express.js, Node.js, TypeScript, Prisma, PostgreSQL, JWT, Zod**
 - 👨‍💻 Portfolio: https://moonlit-gingersnap-a4ec44.netlify.app/
 - 📫 Email: **rahatrahe01@gmail.com**
 - 📄 Resume: https://drive.google.com/file/d/1WHpnJjmBoDUrQo5icsIB92rlHRDWStJg/view?usp=drive_link
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/raheahmed009" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
 </a>
 </p>
 
 ---
 
-# ⚒️ Tech Stack
+# ⚒️ Technologies & Tools
 
-## 🖥 Backend
+### 🖥️ Backend & Databases
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,ts,prisma,postgres,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,prisma,postgres,mongodb,mysql" height="35"/>
 </p>
 
-## 🎨 Frontend
+### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="35"/>
 </p>
 
-## ⚙️ Tools
+### ⚙️ Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,postman,figma" height="35"/>
 </p>
 
-## 💻 Languages
+### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python" />
+<img src="https://skillicons.dev/icons?i=cpp,python" height="35"/>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rahe01&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahe01&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://streak-stats.demolab.com?user=rahe01&theme=tokyonight&hide_border=true" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=rahe01&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahe01&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahe01&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-# 🏗 Current Focus
+### ⚡ Backend Mindset
 
 ```ts
-const backendEngineer = {
-  name: "Rahat Ahmed Rahe",
-  focus: "Scalable Backend Architecture",
-  stack: ["Node.js", "Express", "TypeScript", "PostgreSQL"],
-  goal: "Become Industry-Level Backend Engineer"
+const rahatul = {
+  role: "Backend-Focused Full-Stack Developer",
+  stack: ["Node.js", "Express.js", "TypeScript", "PostgreSQL"],
+  goal: "Become a Strong Industry-Level Backend Engineer"
 }
