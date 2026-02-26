@@ -1,78 +1,101 @@
 ![Header](https://i.ibb.co/ZcS1rGM/github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Rahat Ahmed Rahe</h1>
-<h3 align="center">Backend-Focused Full-Stack Developer | Scalable & Secure Systems Architect 🇧🇩</h3>
-
----
+<h1 align="center">Rahat Ahmed Rahe</h1>
+<h3 align="center">Backend Engineer • System Architect • Scalable API Specialist 🇧🇩</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/raheahmed009">
-    <img src="https://img.shields.io/badge/LinkedIn-Rahat_Ahmed_Rahe-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:rahatrahe01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Business_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=rahe01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=rahe01&label=Profile%20Views&color=111827&style=for-the-badge"/>
 </p>
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+## 🚀 Professional Summary
 
-## 🧠 About Me
+I design and build **secure, scalable, production-grade backend systems**.
 
-💡 Backend-focused Full-Stack Developer specialized in building **secure**, **scalable**, and **production-ready systems**.
+My focus is not just writing APIs —  
+I build **architecture that scales**, databases that perform, and authentication systems that protect.
 
-I architect robust REST APIs, design optimized database schemas, and implement secure authentication systems.
+I specialize in:
 
-### 🎯 What I Focus On
-
-- 🔹 Clean & maintainable TypeScript architecture  
-- 🔹 Scalable REST API design  
-- 🔹 Secure authentication (JWT & Better Auth)  
-- 🔹 Database modeling with Prisma & PostgreSQL  
-- 🔹 API validation using Zod  
-- 🔹 Payment gateway integration (Stripe)  
-- 🔹 Production-ready backend systems  
+- Designing structured backend architecture
+- Building high-performance REST APIs
+- Implementing secure authentication & authorization
+- Creating maintainable TypeScript-based systems
+- Integrating payment infrastructure
+- Preparing applications for real-world production environments
 
 ---
 
-## 🛠 Tech Stack
+## 🏗 Core Expertise
 
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,ts,prisma,postgres,mongodb,mysql" height="40"/>
-</p>
+```yaml
+Architecture:
+  - Modular Backend Structure
+  - Clean Code Principles
+  - Service Layer Pattern
+  - Scalable API Design
 
-### 🔐 Authentication & Payments
-<p>
-<img src="https://skillicons.dev/icons?i=jwt,stripe" height="40"/>
-</p>
+Security:
+  - JWT Authentication
+  - Role-Based Authorization
+  - Input Validation (Zod)
+  - Secure Payment Integration
 
-### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="40"/>
-</p>
-
-### 🧰 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,postman,figma" height="40"/>
-</p>
-
----
-
-## 🌱 Currently Exploring
-
-```bash
-Advanced Backend Architecture
-System Design Principles
-Scalable Microservices
-High Performance API Optimization
+Database:
+  - PostgreSQL (Relational Modeling)
+  - Prisma ORM
+  - Optimized Query Design
 ```
 
 ---
 
-## 📊 GitHub Analytics
+## ⚙️ Tech Stack
+
+### Backend Engineering
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,prisma,postgres" height="42"/>
+</p>
+
+### Authentication & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=jwt,stripe" height="42"/>
+</p>
+
+### Frontend Capabilities
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="42"/>
+</p>
+
+### Development Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,postman,figma,mongodb,mysql" height="42"/>
+</p>
+
+---
+
+## 🧠 Engineering Philosophy
+
+> "Backend systems should be invisible to users — but powerful, secure, and reliable underneath."
+
+I believe in:
+
+- Long-term maintainability
+- Structured folder architecture
+- Predictable codebases
+- Performance-first thinking
+- Clean database relationships
+- Writing code that another engineer can scale easily
+
+---
+
+## 📊 GitHub Performance
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rahe01&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
@@ -85,14 +108,21 @@ High Performance API Optimization
 
 ---
 
-## 🧠 Backend Mindset
+## 🧩 Backend Identity (Code Representation)
 
 ```ts
-class RahatAhmedRahe {
-  role = "Backend-Focused Full-Stack Developer";
-  specialization = "Scalable API & System Architecture";
+interface Engineer {
+  role: string;
+  specialization: string;
+  stack: string[];
+  mindset: string[];
+  mission: () => string;
+}
 
-  techStack = [
+const RahatAhmedRahe: Engineer = {
+  role: "Backend Engineer",
+  specialization: "Scalable API & System Architecture",
+  stack: [
     "Node.js",
     "Express.js",
     "TypeScript",
@@ -100,24 +130,28 @@ class RahatAhmedRahe {
     "Prisma",
     "JWT",
     "Stripe"
-  ];
+  ],
+  mindset: [
+    "Security First",
+    "Scalability Driven",
+    "Clean Architecture",
+    "Production Ready"
+  ],
+  mission: () =>
+    "Build enterprise-grade backend systems that scale efficiently and securely."
+};
 
-  mission() {
-    return "Build secure, scalable, enterprise-grade backend systems.";
-  }
-}
-
-export default new RahatAhmedRahe();
+export default RahatAhmedRahe;
 ```
 
 ---
 
-## 🚀 Career Vision
+## 🎯 Career Direction
 
-To become a **high-level backend engineer** building systems that handle millions of users securely and efficiently.
+I am actively growing toward becoming a **high-impact backend engineer** capable of designing systems that handle large-scale traffic, secure financial transactions, and complex relational data structures.
 
 ---
 
 <p align="center">
-⭐ If you appreciate clean backend architecture & scalable systems — let's connect!
+⚡ Focused on building systems that survive production, not just development.
 </p>
