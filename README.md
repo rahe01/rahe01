@@ -65,7 +65,7 @@ Currently sharpening my skills in:
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rahe01&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=rahe01&show_icons=true&theme=tokyonight&hide_border=true&v=1" />
 </p>
 
 <p align="center">
@@ -73,7 +73,8 @@ Currently sharpening my skills in:
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahe01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahe01&layout=compact&theme=tokyonight&hide_border=true&v=1" />
+
 </p>
 
 ---
