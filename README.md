@@ -112,13 +112,11 @@ Database:
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rahe01&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+
 <img src="https://streak-stats.demolab.com?user=rahe01&theme=github-dark-blue&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahe01&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
+
 
 ---
 
