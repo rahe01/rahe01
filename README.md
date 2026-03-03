@@ -1,40 +1,176 @@
-<h1 align="center">Hi 👋, I'm Rahat Ahmed Rahe</h1>
+![Header](https://i.ibb.co/ZcS1rGM/github-header-image.png)
+
+<h1 align="center">Rahat Ahmed Rahe</h1>
 <h3 align="center">Backend Engineer • Scalable API Architect • Security-Focused Developer 🇧🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahe01&label=Profile%20views&color=0e75b6&style=flat" alt="rahe01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahe01" alt="rahe01" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Healthcare Backend](https://github.com/rahe01/Healthcare-Backend.git)
-
-- 🌱 I’m currently learning **Backend With Express Js and Prisma ORM**
-
-- 👨‍💻 All of my projects are available at [ff](ff)
-
-- 📝 I regularly write articles on [ff](ff)
-
-- 💬 Ask me about **expressjs , Prisma, PostgreeSql**
-
-- 📫 How to reach me **rahe.error16@gmail.com**
-
-- 📄 Know about my experiences [ff](ff)
-
-- ⚡ Fun fact **f**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://linkedin.com/in/raheahmed009">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:raheahmed009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Business_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Rahe-01&label=Profile%20Views&color=111827&style=for-the-badge"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/rahe01"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rahe01" /></a></p><br><br>
+## 🚀 Professional Summary
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahe01&show_icons=true&locale=en&layout=compact" alt="rahe01" /></p>
+I design and build **secure, scalable, production-ready backend systems**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahe01&show_icons=true&locale=en" alt="rahe01" /></p>
+Beyond writing APIs, I focus on:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahe01&" alt="rahe01" /></p>
+- Designing scalable backend architecture  
+- Structuring maintainable TypeScript codebases  
+- Implementing secure authentication & authorization  
+- Optimizing relational database performance  
+- Integrating secure payment systems  
+- Preparing applications for real-world production environments  
+
+I believe backend engineering is not just about logic —  
+it's about **architecture, performance, and long-term reliability.**
+
+---
+
+## 🏗 Backend Philosophy
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn-icons-png.flaticon.com/512/2092/2092663.png" width="40px"/><br/>
+      <b>Security First</b><br/>
+      <sub>JWT, RBAC & secure data handling.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn-icons-png.flaticon.com/512/3522/3522490.png" width="40px"/><br/>
+      <b>Scalability</b><br/>
+      <sub>Systems built for long-term growth.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="40px"/><br/>
+      <b>Clean Architecture</b><br/>
+      <sub>Modular & maintainable systems.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn-icons-png.flaticon.com/512/1541/1541411.png" width="40px"/><br/>
+      <b>Performance</b><br/>
+      <sub>Optimized queries & efficient data flow.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧠 Core Expertise
+
+```yaml
+Architecture:
+  - Modular Backend Structure
+  - Service Layer Pattern
+  - Clean Architecture Principles
+  - RESTful API Design
+
+Security:
+  - JWT Authentication
+  - Role-Based Access Control (RBAC)
+  - Input Validation (Zod)
+  - Secure Payment Integration (Stripe)
+
+Database:
+  - PostgreSQL Relational Modeling
+  - Prisma ORM
+  - Query Optimization
+```
+
+---
+
+## ⚙️ Tech Stack
+
+### Backend Engineering
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,prisma,postgres" height="42"/>
+</p>
+
+### Authentication & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=jwt,stripe" height="42"/>
+</p>
+
+### Frontend Capabilities
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="42"/>
+</p>
+
+### Development Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,postman,figma,mongodb,mysql" height="42"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rahe-01&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Rahe-01&theme=github-dark-blue&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahe-01&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🧩 Backend Identity (Code Representation)
+
+```ts
+interface Engineer {
+  role: string;
+  specialization: string;
+  stack: string[];
+  mindset: string[];
+  mission: () => string;
+}
+
+const RahatAhmedRahe: Engineer = {
+  role: "Backend Engineer",
+  specialization: "Scalable API & System Architecture",
+  stack: [
+    "Node.js",
+    "Express.js",
+    "TypeScript",
+    "PostgreSQL",
+    "Prisma",
+    "JWT",
+    "Stripe"
+  ],
+  mindset: [
+    "Security First",
+    "Scalability Driven",
+    "Clean Architecture",
+    "Performance Optimized"
+  ],
+  mission: () =>
+    "Build enterprise-grade backend systems that scale efficiently and securely."
+};
+
+export default RahatAhmedRahe;
+```
+
+---
+
+## 🎯 Career Direction
+
+Focused on becoming a **high-impact backend engineer** capable of designing systems that handle:
+
+- High traffic loads  
+- Secure financial transactions  
+- Complex relational data  
+- Production-scale deployment environments  
+
+---
+
+<p align="center">
+⚡ Building backend systems that survive production — not just development.
+</p>
