@@ -81,3 +81,96 @@ Database:
   - PostgreSQL Relational Modeling
   - Prisma ORM
   - Query Optimization
+```
+
+---
+
+## ⚙️ Tech Stack
+
+### Backend Engineering
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,prisma,postgres" height="42"/>
+</p>
+
+### Authentication & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=jwt,stripe" height="42"/>
+</p>
+
+### Frontend Capabilities
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="42"/>
+</p>
+
+### Development Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,postman,figma,mongodb,mysql" height="42"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rahe-01&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Rahe-01&theme=github-dark-blue&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahe-01&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🧩 Backend Identity (Code Representation)
+
+```ts
+interface Engineer {
+  role: string;
+  specialization: string;
+  stack: string[];
+  mindset: string[];
+  mission: () => string;
+}
+
+const RahatAhmedRahe: Engineer = {
+  role: "Backend Engineer",
+  specialization: "Scalable API & System Architecture",
+  stack: [
+    "Node.js",
+    "Express.js",
+    "TypeScript",
+    "PostgreSQL",
+    "Prisma",
+    "JWT",
+    "Stripe"
+  ],
+  mindset: [
+    "Security First",
+    "Scalability Driven",
+    "Clean Architecture",
+    "Performance Optimized"
+  ],
+  mission: () =>
+    "Build enterprise-grade backend systems that scale efficiently and securely."
+};
+
+export default RahatAhmedRahe;
+```
+
+---
+
+## 🎯 Career Direction
+
+Focused on becoming a **high-impact backend engineer** capable of designing systems that handle:
+
+- High traffic loads  
+- Secure financial transactions  
+- Complex relational data  
+- Production-scale deployment environments  
+
+---
+
+<p align="center">
+⚡ Building backend systems that survive production — not just development.
+</p>
