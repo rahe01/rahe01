@@ -131,7 +131,7 @@ interface Engineer {
   mission: () => string;
 }
 
-const RahatAhmedRahe: Engineer = {
+const Rahat Ahmed Rahe: Engineer = {
   role: "Backend Engineer",
   specialization: "Scalable API & System Architecture",
   stack: [
