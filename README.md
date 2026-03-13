@@ -26,7 +26,7 @@ Beyond writing APIs, I focus on:
 - Implementing secure authentication & authorization  
 - Optimizing relational database performance  
 - Integrating secure payment systems  
-- Preparing applications for real-world production environments  
+- Preparing application's for real-world production environments  
 
 I believe backend engineering is not just about logic —  
 it's about **architecture, performance, and long-term reliability.**
