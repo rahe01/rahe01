@@ -19,7 +19,7 @@
 
 I design and build **secure, scalable, production-ready backend systems**.
 
-Beyond writing APIs, I focus on:
+Beyond writing APIs,I focus on:
 
 - Designing scalable backend architecture  
 - Structuring maintainable TypeScript codebases  
