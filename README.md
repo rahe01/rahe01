@@ -35,7 +35,7 @@ it's about **architecture, performance, and long-term reliability.**
 
 ## 🏗 Backend Philosophy
 
-<table align="center">
+<table align="center"    >
   <tr>
     <td align="center" width="25%">
       <img src="https://cdn-icons-png.flaticon.com/512/2092/2092663.png" width="40px"/><br/>
